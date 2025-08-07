@@ -1,0 +1,58 @@
+# 🧠 Gemma 3n Multiverse - Requirements
+# Core AI and LLM
+ollama>=0.1.0
+
+# Google AI Edge Integration
+google-api-python-client>=2.0.0
+google-auth>=2.0.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Data Visualization
+plotly>=5.15.0
+
+# Image Processing & Computer Vision
+Pillow>=10.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# OCR & Text Recognition (Offline-first)
+pytesseract>=0.3.10
+easyocr>=1.7.0  # ENABLED - Better OCR for math problems
+
+# Video Processing & Computer Vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Basic HTTP requests (for future features)
+# requests>=2.31.0  # Optional - removed for offline-first approach
+
+# Vector Search & Embeddings (Offline-first)
+# sentence-transformers>=2.2.0  # Optional - requires internet for model download
+# faiss-cpu>=1.7.0  # Optional - for advanced vector search
+
+# SOTA Vision Models (via Ollama)
+# Install these models with: ollama pull llava:13b
+# Available models: llava:13b, llava:7b, bakllava:7b, llava:1.5-7b
+
+# Data Handling
+pandas>=2.0.0
+
+# Optional: Enhanced search capabilities
+# duckduckgo-search>=3.8.0  
+
+# Audio processing for speech-to-text and TTS
+speechrecognition>=3.10.0
+pyaudio>=0.2.11
+pyttsx3>=2.90
+gtts>=2.3.0
+
+# WebSocket for multi-device sync
+websockets>=11.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Optional: Additional ML libraries
+# torch>=2.0.0
+# transformers>=4.30.0 
