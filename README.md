@@ -1,9 +1,7 @@
 # 🧠🌌 Gemma 3n Multiverse: Democratizing Genius
 ## Offline-First Proactive Intelligence for Global Impact
 
-[![Google AI Edge](https://img.shields.io/badge/Google%20AI%20Edge-Powered%20by%20Pixel%209a-blue?style=for-the-badge&logo=google)](https://ai.google.dev/edge)
 [![Gemma 3n](https://img.shields.io/badge/Gemma%203n-Multimodal%20AI-orange?style=for-the-badge&logo=google)](https://ai.google.dev/gemma)
-[![Offline First](https://img.shields.io/badge/Offline%20First-100%25%20Local-green?style=for-the-badge)](https://ai.google.dev/edge)
 [![Proactive AI](https://img.shields.io/badge/Proactive%20AI-Goal%20Aware-purple?style=for-the-badge)](https://ai.google.dev/edge)
 
 > **"What if every brilliant mind on Earth had access to genius-level intelligence... offline, private, and in their pocket?"**
