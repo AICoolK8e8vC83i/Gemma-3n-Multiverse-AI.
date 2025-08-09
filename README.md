@@ -9,7 +9,7 @@
 > **"What if every brilliant mind on Earth had access to genius-level intelligence... offline, private, and in their pocket?"**
 
 ## 🎬 **Live Demo**
-**[Watch the Full Demo on YouTube]([https://youtu.be/TCNUZA64H58](https://youtu.be/6GvXM-_N774))**
+**[Watch the Full Demo on YouTube]([World's First Proactive AI: Cross-Device Intelligence Mesh Running on Google Pixel 9a and Macbook](https://youtu.be/6GvXM-_N774))**
 
 *See the magic in action: Proactive Intelligence, Cross-Device Consciousness Mesh, and 20+ Specialized Agents running on Google Pixel 9a!*
 
